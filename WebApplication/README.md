@@ -28,7 +28,7 @@ The layout for the program files will be as follows:
   >for interactivity
 
 
-## First Stage
+## First Stage - **Setup**
 
 > The first step was to setup the three files needed for the application within VS code, ( HTML, CSS, .JS). I then edited the HTML file input body, and added a headline, list elements and underline using the description provided by Microsoft. I also linked it with the CSS file.
 > Afterwhich, I previewed the setup, by opening it in my default browser ( Safari)
@@ -37,14 +37,14 @@ The layout for the program files will be as follows:
 
 
 
-## Second Stage
+## Second Stage - **Developer tools and adding theme**
 
 > The next stage involved opening up the developer tool interface in-browser, exploring how the code and browser communicate and translate with each other. I then moved to the next scenario which was to use the CSS file to add a theme and apply CSS styles to HTML page elements and add some CSS code to define a light and dark theme. Then, I checked the results in the browser's developer tools.
 
 ![image](https://github.com/user-attachments/assets/a733783b-3235-41fc-b2d3-38a2a73bf328)
 
 
-## Third Stage
+## Third Stage - **Adding dark theme and further refinement**
 
 > Next up , was to add a dark theme, setting the grounding for the feature implementation. The goal would be to eventually allow theme switching within the application.
 
@@ -53,5 +53,9 @@ The layout for the program files will be as follows:
 
 ![image](https://github.com/user-attachments/assets/972ec334-52e3-48f0-8d45-83a03a1361ff)
 
+
+## Final Stage - **Adding interactivity using JavaScript**
+
+>
 
 
