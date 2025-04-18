@@ -6,7 +6,6 @@
 
 > Here I Practice the beginning steps of web development by creating a simple web project in Visual Studio Code that contains a web page, a CSS file, and a JavaScript file. I Learn how to use developer tools in my browser to check my work.
 
-**Learning objectives**
 
 In this module, I practice how to:
 
@@ -15,17 +14,18 @@ In this module, I practice how to:
 - Create themes using CSS.
 - Add support for switching between themes using JavaScript.
 - Inspect the website using browser developer tools.
+  
 
 ## Layout Guide
 
 The layout for the program files will be as follows:
 
 - HTML file:
-  >for content
+  >For Content
 - CSS file:
-  >for styling
+  >For Styling
 - JavaScript file:
-  >for interactivity
+  >For Interactivity
 
 
 ## First Stage - **Setup**
@@ -56,6 +56,18 @@ The layout for the program files will be as follows:
 
 ## Final Stage - **Adding interactivity using JavaScript**
 
->
+> Lastly, I next needed to link my .JS file with the HTML file. So using Microsoft guidance, I used the <script> element and did just that.
+> Then the following was also applied:
+ - Fault tolerence added, in case JS is deactivated
+ - "Use strict" setting for JS added, for good practice and insightful error reporting
+ - Had a play with the colour pallets for font and background colours, sourced yellow and red hex values online
+ - Added button reference in JS and added event handler for click event
+
+   ![image](https://github.com/user-attachments/assets/db5d72da-510b-467e-a43b-538542aa4897)
+
+
+
+
+ 
 
 
