@@ -66,6 +66,17 @@ The layout for the program files will be as follows:
    ![image](https://github.com/user-attachments/assets/db5d72da-510b-467e-a43b-538542aa4897)
 
 
+> I didn't like the green background for light theme, I changed it to white to better reflect the button indicator
+
+![image](https://github.com/user-attachments/assets/8f194351-5119-40e6-9017-5091a20d892f)
+
+> Also discovered how to add console messages when using developer mode, this reflected the button function
+
+![image](https://github.com/user-attachments/assets/8deda2a8-fc61-4096-962c-16bf603c22d8)
+
+
+
+
 
 
  
