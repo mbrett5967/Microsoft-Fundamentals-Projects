@@ -7,7 +7,7 @@
 
 My first web app built as part of the Microsoft Fundamentals tutorial.
 
-:link: link to project README.
+:link: Link to project README.
 
 https://github.com/mbrett5967/Microsoft-Fundamentals-Projects/blob/main/WebApplication/README.md
 
