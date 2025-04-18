@@ -28,4 +28,11 @@ The layout for the program files will be as follows:
   >for interactivity
 
 
+## First Step
+
+> The first step was to setup the three files needed for the application within VS code, ( HTML, CSS, .JS). I then edited the HTML file input body, and added a headline, list elements and underline using the description provided by Microsoft.
+> Afterwhich, I previewed the setup by opening it in my default browser ( Safari)
+
+![image](https://github.com/user-attachments/assets/89304d9e-b73f-4861-93e2-2cd7f9b9ba8e)
+
 
