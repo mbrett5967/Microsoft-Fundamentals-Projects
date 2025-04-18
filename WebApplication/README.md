@@ -44,4 +44,14 @@ The layout for the program files will be as follows:
 ![image](https://github.com/user-attachments/assets/a733783b-3235-41fc-b2d3-38a2a73bf328)
 
 
+## Third Stage
+
+> Next up , was to add a dark theme, setting the grounding for the feature implementation. The goal would be to eventually allow theme switching within the application.
+
+![image](https://github.com/user-attachments/assets/cca8454e-2359-4862-8e59-61c9664d564f)
+
+
+![image](https://github.com/user-attachments/assets/972ec334-52e3-48f0-8d45-83a03a1361ff)
+
+
 
